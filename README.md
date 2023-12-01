@@ -7,7 +7,7 @@
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i have a little baby.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula)
 
