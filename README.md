@@ -1,6 +1,8 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
+<div>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&hide=contribs,prs)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&count_private=true)
 
 
