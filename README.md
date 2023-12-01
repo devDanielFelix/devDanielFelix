@@ -1,7 +1,7 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix=anuraghazra)](https://github.com/devDanielFelix/github-readme-stats)
-  
+ 
 - 💼 I’m teaching 
 - 💻 I’m learning software developer.
 - 💬 I am a Software Engineering student at Estácio University.
