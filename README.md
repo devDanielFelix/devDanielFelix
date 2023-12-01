@@ -13,5 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<img weidth="30" heidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="center" weidth="30" heidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
           
