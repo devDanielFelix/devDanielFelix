@@ -27,8 +27,6 @@
 
 <div style="display: inline_block"><br>
  
-<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Instagram" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<img alt="Instagram" height="50" width="200" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- 
+<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Instagram" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
