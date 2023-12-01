@@ -13,8 +13,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
-src="img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-
-
-
+<img> src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" </img>
