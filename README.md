@@ -1,8 +1,6 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix)](https://github.com/devDanielFelix/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix=&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix=&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 💼 I’m teaching 
 - 💻 I’m learning software developer.
