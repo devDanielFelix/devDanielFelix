@@ -1,17 +1,13 @@
-### Hi there 🖖 
-
+- Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
 <div>
-  https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent
-<div>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+  
+- 💼 I’m teaching 
+- 💻 I’m learning software developer.
+- 💬 I am a Software Engineering student at Estácio University.
+      One year of experience as an administrative assistant at Inoplast in the commercial sectors in the marketing.
+      I'm looking for new opportunities as a software developer to work abroad, it's my dream.
+      I'm 24 years old, married and i have a little baby.
 -->
