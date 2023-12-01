@@ -12,6 +12,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
-       <a href = <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> </a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
+</div>
+
+<div>
+<img aling="center" alt="Daniel_C#" heigth="30" weidth="40" src="/home/aluno/Downloads/devicon-master/icons/csharp">
 </div>
