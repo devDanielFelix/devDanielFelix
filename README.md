@@ -18,6 +18,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
 </div>
 
-<div>
 <img aling="center" alt="Daniel_C#" heigth="30" weidth="40" src="/home/aluno/Downloads/devicon-master/icons/csharp">
-</div>
+
