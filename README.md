@@ -1,5 +1,5 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
-div 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devDanielFelix=anuraghazra&show_icons=true&theme=radical)
 
 - 💼 I’m teaching 
