@@ -24,5 +24,5 @@
 </div>
 
 <div style="display: inline_block"><br>
-     <img aling="center" alt="Instagram" height="30" width="100" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+     <img aling="center" alt="Instagram" height="80" width="300" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 </div>
