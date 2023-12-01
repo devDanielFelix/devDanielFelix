@@ -8,12 +8,6 @@
       I'm 24 years old, married and i have a little baby.
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" weidth="10px" heidth="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
           
 <div align="center">
 <a href="https://github.com/DevBatista1">
