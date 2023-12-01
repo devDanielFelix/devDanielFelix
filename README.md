@@ -1,7 +1,6 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 <div>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&hide=contribs,prs)
-</div>
+   <a href = ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&hide=contribs,prs) <a/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&count_private=true)
 
