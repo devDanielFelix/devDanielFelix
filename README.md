@@ -2,6 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devDanielFelix=anuraghazra)](https://github.com/devDanielFelix/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devDanielFelix=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devDanielFelix=anuraghazra&show_icons=true&theme=radical)
 
 - 💼 I’m teaching 
 - 💻 I’m learning software developer.
