@@ -1,7 +1,7 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidevDanielFelix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/apidevDanielFelix=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 - 💼 I’m teaching 
