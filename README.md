@@ -14,9 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
+<a href="" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"</a>  
 </div>
 
-<img aling="center" alt="Daniel_C#" heigth="30" weidth="40" src="/home/aluno/Downloads/devicon-master/icons/csharp">
 
