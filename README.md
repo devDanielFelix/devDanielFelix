@@ -7,6 +7,10 @@
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i have a little baby.
 
+<div style="display: inline_block"><br>
+     <img aling="center" alt="Instagram" height="50" width="60" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+</div>
+
 <div align="center">
   <a href="https://github.com/devDanielFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
