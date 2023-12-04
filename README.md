@@ -1,6 +1,5 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
-- 💼 The Programming and Learning project aims to teach children and teenagers programming logic and games through the Scratch tool.
 - 💻 I’m learning software developer.
 - 💬 I am a Software Engineering student at Estácio University.
       One year of experience as an administrative assistant at Inoplast in the commercial sectors in the marketing.
