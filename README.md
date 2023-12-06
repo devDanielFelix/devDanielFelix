@@ -4,7 +4,6 @@
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i've a little baby.
   
-        <img src="https://github.com/devDanielFelix/devDanielFelix/assets/102247488/779257ba-81c3-41bd-a770-af8dc04b3535)
   
   <h3>Hard Skills</h3>
   <h3>Soft Skills</h3>
@@ -25,7 +24,6 @@
   <img align="center" alt="Dev-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Dev-Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
- <img src="https://github.com/devDanielFelix/devDanielFelix/assets/102247488/779257ba-81c3-41bd-a770-af8dc04b3535)
 </div>
 
 <div style="display: inline_block"><br>
