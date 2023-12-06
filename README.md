@@ -3,7 +3,10 @@
 - 💻 I’m learning software developer.
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i've a little baby.
-
+  <div>
+        <img height="180em" src="/home/aluno/Downloads"/>
+  </div>
+  
   <h3>Hard Skills</h3>
   <h3>Soft Skills</h3>
   
