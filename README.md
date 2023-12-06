@@ -4,7 +4,8 @@
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i've a little baby.
   <div>
-        <img aling="end" height="180em" src="/home/aluno/Downloads/IoT_Banner-removebg-preview.png"/>
+        <img aling="end" height="180em" src="![image](https://github.com/devDanielFelix/devDanielFelix/assets/102247488/779257ba-81c3-41bd-a770-af8dc04b3535)
+"/>
   </div>
   
   <h3>Hard Skills</h3>
