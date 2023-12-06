@@ -1,10 +1,11 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
 - 💻 I’m learning software developer.
-- 💬 I'm a Software Engineering student at Estácio University.
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
       I'm 24 years old, married and i've a little baby.
 
+  <h2>Hard Skills</h2>
+  <h2>Soft Skills</h2>
 <div align="center">
   <a href="https://github.com/devDanielFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
