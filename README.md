@@ -6,6 +6,7 @@
 
   <h3>Hard Skills</h3>
   <h3>Soft Skills</h3>
+  
 <div align="center">
   <a href="https://github.com/devDanielFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
