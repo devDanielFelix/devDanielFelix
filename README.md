@@ -1,9 +1,9 @@
 - Hi there 🖖 My name is Daniel Felix. Nice to meet you !
 
 - 💻 I’m learning software developer.
-- 💬 I am a Software Engineering student at Estácio University.
+- 💬 I'm a Software Engineering student at Estácio University.
       I'm looking for new opportunities as a software developer to work abroad, it's my dream.
-      I'm 24 years old, married and i have a little baby.
+      I'm 24 years old, married and i've a little baby.
 
 <div align="center">
   <a href="https://github.com/devDanielFelix">
