@@ -5,7 +5,6 @@
       I'm 24 years old, married and i've a little baby.
   <div>
         <img src="https://github.com/devDanielFelix/devDanielFelix/assets/102247488/779257ba-81c3-41bd-a770-af8dc04b3535)
-"/>
   </div>
   
   <h3>Hard Skills</h3>
