@@ -24,7 +24,7 @@
   <img align="center" alt="Dev-DotNet" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
   <img align="center" alt="Dev-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Dev-Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+  <img align="center" alt="Dev-Git" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
 <div style="display: inline_block"><br>
