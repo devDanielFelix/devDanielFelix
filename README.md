@@ -1,8 +1,6 @@
-- Hi there 🖖 My name is Daniel Felix. Nice to meet you !
+- Hi there 🖖 
 
-- 💻 I’m learning software developer.
-      I'm looking for new opportunities as a software developer to work abroad, it's my dream.
-      I'm 24 years old, married and i've a little baby.
+- 💻 Olá, sou estudande do curso Engenharia de Software, seja-bemvindo ao meu GitHub.
   
   
   <h3>Hard Skills</h3>
