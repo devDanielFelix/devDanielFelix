@@ -1,11 +1,9 @@
 - Hi there 🖖 
 
 - 💻 Olá, sou estudande do curso Engenharia de Software, seja-bemvindo ao meu GitHub.
+- Atualmente trabalho como estágiario da prefeitura de Maracanaú, na área de programação.
+
   
-  
-  <h3>Hard Skills</h3>
-  
-  <h3>Soft Skills</h3>
   
 <div align="center">
   <a href="https://github.com/devDanielFelix">
