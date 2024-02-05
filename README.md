@@ -4,10 +4,7 @@
 - Atualmente trabalho como estágiario da prefeitura de Maracanaú, na área de programação.
 
   
-  
-<div align="center">
-  <a href="https://github.com/devDanielFelix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devDanielFelix&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
