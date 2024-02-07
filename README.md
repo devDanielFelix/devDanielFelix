@@ -1,7 +1,7 @@
 - Hi there 🖖 
 
 - 💻 Olá, sou estudande do curso Engenharia de Software, seja-bemvindo ao meu GitHub.
-- Atualmente trabalho como estágiario da prefeitura de Maracanaú, na área de programação.
+- Atualmente trabalho como estágiario da prefeitura de Maracanaú, como desenvolverdor de sistemas.
 
   
 
