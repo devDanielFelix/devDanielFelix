@@ -8,6 +8,10 @@
 
 <h3>- Let’s work together?</h3>
 
+<p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
+<br>
+<p align="justfy">I am passionate about nature, astronomy, and technology. Some of my hobbies are camping, trekking, studying, and developing strategies for e-commerce.
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
