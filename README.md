@@ -1,20 +1,13 @@
 <img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
-- Hi there 🖖
+<h2>- Hi there 🖖</h2>
 
 <h3>Software Engineer student</h3>
-- 💻 "Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!"
-- Currently works as an intern at Maracanaú city hall, as a system developer. I dream of working as a software engineer in Canada. 
+
+<p>- 💻 "Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!"
+- Currently works as an intern at Maracanaú city hall, as a system developer. I dream of working as a software engineer in Canada. </p>
 
 <h3>- Let’s work together?</h3>
-
-<p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
-<br>
-<p align="justfy">I am passionate about nature, astronomy, and technology. Some of my hobbies are camping, trekking, studying, and developing strategies for e-commerce.
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
         
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
