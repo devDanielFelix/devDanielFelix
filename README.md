@@ -1,3 +1,5 @@
+<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+
 - Hi there 🖖 
 
 - 💻 Olá, sou estudande do curso Engenharia de Software, seja-bemvindo ao meu GitHub.
