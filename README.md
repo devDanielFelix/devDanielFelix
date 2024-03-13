@@ -1,11 +1,12 @@
 <img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
-- Hi there 🖖 
+- Hi there 🖖
 
-- 💻 Olá, sou estudande do curso Engenharia de Software, seja-bemvindo ao meu GitHub.
-- Atualmente trabalho como estágiario da prefeitura de Maracanaú, como desenvolverdor de sistemas.
+<h3>Software Engineer student</h3>
+- 💻 "Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!"
+- Currently works as an intern at Maracanaú city hall, as a system developer. I dream of working as a software engineer in Canada. 
 
-  
+<h3>- Let’s work together?</h3>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&langs_count=7&theme=dracula"/>
 </div>
