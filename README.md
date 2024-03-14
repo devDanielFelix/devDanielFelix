@@ -4,8 +4,8 @@
 
 <h3>Software Engineer student</h3>
 
-<p>- 💻 "Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!"
-- Currently works as an intern at Maracanaú city hall, as a system developer. I dream of working as a software engineer in Canada. </p>
+<p align="justfy">- 💻 "Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!"</p>
+<p align="justfy">- Currently works as an intern at Maracanaú city hall, as a system developer. I dream of working as a software engineer in Canada.</p>
 
 <h3>- Let’s work together?</h3>
         
