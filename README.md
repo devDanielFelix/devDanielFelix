@@ -26,3 +26,9 @@
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Instagram" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xhelton&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0xhelton&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
