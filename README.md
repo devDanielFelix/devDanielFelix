@@ -1,7 +1,7 @@
 <img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 
-<h2>- Hey, listen! <img align="justify" padding="20px" alt="Coragem" height="30" width="40" border-radios="30" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h2>
+<h2>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h2>
 
 <h3>- Software Engineer 💻</h3>
 
