@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="350" width="450" border-radios="30" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" padding="20px" alt="Developer" height="350" width="450" border-radios="30" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 <h2>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h2>
@@ -9,7 +9,7 @@
 
 <h3>- Let’s work together?</h3>
         
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Dev-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dev-JavaScript" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
