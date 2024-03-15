@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 
 <h2>- Hi there 🖖</h2>
