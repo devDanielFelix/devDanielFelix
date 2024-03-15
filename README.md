@@ -5,9 +5,9 @@
 
 <h3>- Software Engineer 💻</h3>
 
-<p align="justify">-  Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!</p>
+<p align="justify">-  Hi there! I'm Daniel Felix, a 25-year-old happily married individual with a wonderful little baby named Angelo. Family is everything to me, and I cherish every moment spent with them. In addition to being a dedicated family person, I'm also passionate about hardware and software developer. Looking forward to connecting and sharing experiences with you all!</p> <br>
 
-<h3>- Let’s work together?</h3>
+<h3>- Let’s work together?</h3> <br>
         
 <div style="display: inline_block">
   <img align="center" alt="Dev-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
