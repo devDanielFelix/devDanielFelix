@@ -33,4 +33,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=monokai&size_weight=0.6&count_weight=0.6&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compacti&size_weight=0.6&count_weight=0.6&theme=dark)
