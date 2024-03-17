@@ -3,7 +3,7 @@
 
 <h1>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
 
-<h3>- Software Engineer 💻</h3>
+<h3>- Engenharia de Software, Estácio de Sá. 💻</h3>
 
 <p align="justify">-  Olá! Sou Daniel Felix, um homem de 25 anos, casado e feliz, com um bebê maravilhoso chamado Ângelo. Família é tudo para mim e valorizo cada momento que passo com eles. Além de ser uma pessoa dedicada à família, sou apaixonado por desenvolvimento de software. Estou ansioso para nos conectar e compartilhar experiências com você!</p> <br>
 
