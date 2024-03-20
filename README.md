@@ -5,7 +5,7 @@
 
 <h3>- Engenharia de Software, Estácio de Sá. 💻</h3>
 
-<p align="justify">-  Olá! Sou Daniel Felix, um homem de 25 anos, casado e feliz, com um bebê maravilhoso chamado Ângelo. Família é tudo para mim e valorizo cada momento que passo com eles. Além de ser uma pessoa dedicada à família, sou apaixonado por desenvolvimento de software. Estou ansioso para nos conectar e compartilhar experiências com você!</p> <br>
+<p align="justify">-  Hello! I'm Daniel Felix, a 25-year-old man, married and happy, with a wonderful baby named Ângelo. Family means everything to me, and I cherish every moment I spend with them. In addition to being a family-oriented person, I'm passionate about software development. I'm looking forward to connecting with you and sharing experiences! </p> <br>
 
 <h3>- Let’s work together?</h3> <br>
         
