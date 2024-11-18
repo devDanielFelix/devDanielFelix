@@ -3,7 +3,7 @@
 
 <h1>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
 
-<h3>- Software Engineering, Estacio. 💻</h3>
+<h3>- Software Engineer. 💻</h3>
 
 <p align="justify">-  Hello! I'm Daniel Felix, a 25-year-old man, married and happy, with a wonderful baby named Angelo. Family means everything to me, and I cherish every moment I spend with them. In addition to being a family-oriented person, I'm passionate about software development. I'm looking forward to connecting with you and sharing experiences! </p> <br>
 
