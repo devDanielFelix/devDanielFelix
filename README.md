@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Developer" height="360" width="360" border-radios="30" src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpjYjBmaHo4dm1tbTZnOGRsOTZiMDk5c2N3MTl0dDJ2b3l3bnRyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp'> src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" padding="20px" alt="Developer" height="360" width="360" border-radios="30" src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpjYjBmaHo4dm1tbTZnOGRsOTZiMDk5c2N3MTl0dDJ2b3l3bnRyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp'>
 
 
 <h1>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
