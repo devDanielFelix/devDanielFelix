@@ -5,7 +5,7 @@
 
 <h3>- Software Engineer. 💻</h3>
 
-<p align="justify">- Hello, my name is Daniel. I'm 25 years old and a programming student. I'm constantly striving to enhance my skills and deepen my expertise in development. My dedication is focused on delivering efficient and creative solutions, and my goal is to grow professionally as a programmer, contributing to the success of challenging and innovative projects. </p> <br>
+<p align="justify">- Hi, my name is Daniel. I'm 25 years old and a programming student. I'm constantly striving to enhance my skills and deepen my expertise in development. My dedication is focused on delivering efficient and creative solutions, and my goal is to grow professionally as a programmer, contributing to the success of challenging and innovative projects. </p> <br>
 
 <h3>- Let’s work together?</h3> <br>
         
