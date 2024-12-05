@@ -1,5 +1,4 @@
-<img align="right" padding="20px" alt="Developer" height="360" width="360" border-radios="30" src='[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpjYjBmaHo4dm1tbTZnOGRsOTZiMDk5c2N3MTl0dDJ2b3l3bnRyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp'](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdzYXZ0bWR6OHJ2aGtzdzhvNzd6aHVzaDJrbnlzdXBxOXI1bGQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp)>
-<img align="right" padding="20px" alt="Developer" height="360" width="360" border-radios="30" src=''>
+<img align="right" padding="20px" alt="Developer" height="360" width="360" border-radios="30" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdzYXZ0bWR6OHJ2aGtzdzhvNzd6aHVzaDJrbnlzdXBxOXI1bGQ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp'>
 
 
 <h1>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
