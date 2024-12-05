@@ -32,4 +32,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&theme=monokai&show_icons=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&size_weight=0.6&count_weight=0.6&theme=mokai)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&size_weight=0.6&count_weight=0.6&theme=dracula)
