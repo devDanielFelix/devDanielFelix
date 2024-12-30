@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me</h3>
  
-<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center" style="border-radius: 0 60px 0 60px"> <img alt="Likedin" height="50" width="200" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
 
