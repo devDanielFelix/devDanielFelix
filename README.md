@@ -2,7 +2,15 @@
 
 <h3>- Software Engineer. 💻</h3>
 
-<p align="justify">- Hi, my name is Daniel. I'm 25 years old. Enhance my skills and broaden my knowledge in software development. My dedication is focused on delivering efficient and creative solutions, and my goal is to grow professionally as a programmer, contributing to the success of challenging and innovative projects. </p> <br>
+<p align="justify">-About Me
+
+Passionate and dedicated programmer with experience in Laravel and a strong desire to continuously improve my skills in software development. I am always eager to learn new technologies and best practices to build efficient, scalable, and secure applications.
+
+With a deep interest in backend development and problem-solving, I strive to write clean, maintainable code while optimizing performance. My goal is to secure a position as a developer where I can contribute my expertise, collaborate with talented teams, and grow professionally.
+
+Let’s connect and discuss how I can add value to your team!
+
+ </p> <br>
 
 <h3>- Let’s work together?</h3> <br>
         
