@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
+(https://github-readme-stats.vercel.app/api?username=devDanielFelix&theme=dracula&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devDanielFelix&theme=dracula&show_icons=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&size_weight=0.6&count_weight=0.6&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&size_weight=0.6&count_weight=0.6&theme=dracula)
