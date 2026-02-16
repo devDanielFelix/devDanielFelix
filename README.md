@@ -22,4 +22,4 @@
 </a>
 
 
-[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=640b0b&section=footer)
+[[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=640b0b&section=footer)](https://capsule-render.vercel.app/api?type=waving&height=300&color=000080&section=footer&fontSize=28&fontColor=fff)
