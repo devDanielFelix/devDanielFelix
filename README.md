@@ -21,4 +21,4 @@
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000080&section=footer&fontSize=28&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000080&section=footer&fontSize=28&fontColor=fff"/>
