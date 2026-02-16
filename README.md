@@ -10,13 +10,7 @@
   <img align="center" alt="Dev-JavaScript" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Dev-C#" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Dev-Docker" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img align="center" alt="Dev-VueJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>
-          
-          
-     
-          
-          
-           
+  <img align="center" alt="Dev-VueJS" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>                    
           
 </div>
 
@@ -26,3 +20,6 @@
  
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D41b22&height=150&section=footer"/>
