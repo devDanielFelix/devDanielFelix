@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000080&text=devDanielFelix&section=header&fontSize=28&fontColor=fff"/>
 
-<div <h2- Hey, listen! img align="center" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
+<div <h2- Hey, listen! <img align="center" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
 </div>
 
 <h3>- Let’s work together?</h3>
