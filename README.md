@@ -2,7 +2,7 @@
 
 <h1>- Hey, listen! <img align="justify" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
 
-<h3>- Let’s work together?</h3> <br>
+<h3>- Let’s work together?</h3>
         
 <div style="display: inline_block">
   <img align="center" alt="Dev-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
