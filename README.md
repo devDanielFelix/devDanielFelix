@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+:%29;Hello,+You+are+Welcome!+:%29;)](https://git.io/typing-svg)
 
-<h1>- Hey, listen! <img align="center" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>
+<div>
+    <h1>- Hey, listen! <img align="center" padding="20px" alt="Navi" height="35" width="40" src="https://static.wikia.nocookie.net/zelda/images/2/2c/Navi_Artwork.png/revision/latest?cb=20150803060144&path-prefix=pt-br"></h1>    
+</div>
 
 <h3>- Let’s work together?</h3>
         
