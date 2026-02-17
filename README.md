@@ -14,7 +14,7 @@
 
 <div style="display: inline_block">
 
-<h3 align="center">Connect with me</h3>
+<h3 align="justify-contet">Connect with me</h3>
  
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="40" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
