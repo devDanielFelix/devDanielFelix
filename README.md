@@ -14,11 +14,17 @@
   <img align="center" alt="Dev-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img align="center" alt="Dev-VueJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>                       </div>
 
-<div style="display: inline_block">
-
 <h3 align="justify-contet">Connect with me</h3>
  
 <a href="https://www.linkedin.com/in/daniel-felix-a404411b8/" target="_blank" aling="center"> <img alt="Likedin" height="40" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<h2>My Github Stats </h1>
+
+<div align="center">
+  <a href="https://github.com/manuletsgo">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devDanielFelix&show_icons=true&count_private=true&line_height=30&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&theme=dark"/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000080&section=footer&fontSize=28&fontColor=fff"/>
