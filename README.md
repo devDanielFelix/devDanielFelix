@@ -32,4 +32,4 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devDanielFelix&layout=compact&theme=dark"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000080&section=footer&fontSize=28&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=00A300&section=footer&fontSize=28&fontColor=fff"/>
